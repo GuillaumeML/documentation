@@ -40,5 +40,3 @@ Design requires the cooperative efforts of multiple disciplines. Great designers
 ## 6. Design thinking
 
 ## 7. Design in the world of business
-
-## 8. 
