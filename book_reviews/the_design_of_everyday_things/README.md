@@ -35,7 +35,7 @@ Design requires the cooperative efforts of multiple disciplines. Great designers
 
 ## 4. Knowing what to do: constraints, discoverability, and feedback
 
-## 5. Human error? Np, bad design
+## 5. Human error? No, bad design
 
 ## 6. Design thinking
 
