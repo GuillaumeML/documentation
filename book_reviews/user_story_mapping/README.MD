@@ -61,6 +61,25 @@ Building a map is hard if you don't know who your users are and what they do. If
 Use storytelling with words and pictures to build shared understanding. Don't just talk about what to build: talk about who will use it and why so you can minimize outcome. 
 
 ## 6. The real story about stories
+### Kent' disruptively simple idea
+One of the biggest problems in software development is that different people can read the same document and imagine different things. Lot's of people call this lack of understanding "bad requirements". Documents usually describes what we need but not why we need it. The best solutions come from collaboration between the people with the problems to solve and the people who can solve them. Stop trying to write the perfect document and get together to write stories. Stories get their name not from how they're supposed to be written, but from how they are supposed to be used. 
+
+### Simple isn't easy
+You know you are telling stories right if you're generating energy, interest, and vision in the listener's mind. If you are not getting together to have rich discussions about your stories, then you're not really using stories. 
+
+### Ron Jeffries and the 3 Cs
+Card: Write what you'd like to see in the software on a bunch of index cards.
+
+Conversation: Get together and have a rich conversation about what software to build
+
+Confirmation: Together agree on how you'll confirm that the software is done. 
+
+### Words and pictures
+
+Conversatio  goes best if it includes lots of things such as simple personas, workflow diagrams, UI sketches, and other traditional software model that'll help explain things. Take photos before you leave so you can recall the details of the conversation that would be difficult to write down. 
+### That's it
+Using the 3 C's method can change everything, or it also can't if you are working with people used to working in the old fashion way. The next chapter will explain how to make conversations go better.
+
 
 ## 7. Telling better stories
 
