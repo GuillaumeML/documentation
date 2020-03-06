@@ -30,6 +30,83 @@ The same technology that simplifies life by providing more functions in each dev
 Design requires the cooperative efforts of multiple disciplines. Great designers, great management etc. One discipline argues that it must be usable and understandable, another that is must be attractive, another that it must be cheap, another that it must be reliable and another that it must be cheap. What good is a product if nobody uses it. Successful products satisfies all these requirements. 
 
 ## 2. The psychology of everyday actions
+### How people do things: The gulfs of Execution and Evaluation
+When people use something, they face two gulfs. Gulf of execution when they try to figure out how it operates and gulf of evaluation where they try to figure out what happened. The goal of the designer is to help people bridge the two gulfs. The major design elements that help bridge the gulf of execution are signifiers, contraints, mappings, and a conceptual model. The major design elements that help bridge the gulf of evaluation are feedback and a good conceptual model. 
+
+### The seven stages of action
+
+1. Goal (form the goal)
+2. Plan (the action)
+3. Specify (an action of sequence)
+4. Perform (the action of sequence)
+5. Perceive (the state of the world)
+6. Interpret (the perception)
+7. Compare (the outcome with the goal)
+
+The seven-stage action cycle is simplified but ot provides a useful framework for understanding human action and for guiding design. 
+
+### Human thought: mostly subconscious
+
+#### Subconscious and Conscious Systems of Cognition
+| Subconscious        | Conscious           |
+| ------------- |:-------------:| 
+| fast      | slow | 
+| multiple resources     | limited resources      | 
+| controls skilled behaviour | invoked for novel situations: when learning, when in danger, when things go wrong     | 
+
+### Human Cognition and Emotion
+The following is an oversimplification but still a good enough approximation to provide guidance in understanding human behaviour. There are three levels of processing: visceral, behavioural and reflective. 
+
+#### The visceral level
+This is refered to as the lizard brain. Making quick judgments about the environment: good or bad, safe or dangerous. Visceral system allows us to repond quickly and subconsciously, without awareness or control. It simply assesses the situatio: no cause is assigned, no blame, and no credit. For designers, the visceral response is about immediate perception: the pleasantness of a mellow, harmonious sound or a horrible sound. Here is where the style matters: appearances, wether sound or sight, touch or smell, drive the visceral response. 
+
+#### The behavioural level
+
+Behavioural level is the home of learned skills, triggered by situations that match the appropriate patterns. This level is mostly subconscious. Things like catching a ball, stiking out your tongue etc. For the designers, the most critical aspect of the behavioural level is that every action is associated with an expectation. Behavioural states are learned. They give rise to a feeling of control when there is a good understanding and knowledge of results, and frustration and anger when things do not go as planned, and especially when neither the reason nor the possible remedies are known. Feedback is critical to managing expectations and a good design provides this. The release of the of the tension of expectation creates a sense of releif. 
+
+#### The reflective level
+
+The reflective level is the home of conscious cognition. Place where reasoning and conscious decision-making take place. Reflection is cognitive, deep and slow. It occurs after the events have happened. It is a reflectionor looking back over them, evaluating the circumstances, actions and outcomes, often assessing blame or responsibility. This is where predictions of the future take place. 
+
+#### Design must take place at all levels: visceral, behavioural, and reflective
+To the designer, reflection is perhaps the most important of the levels of processing. Memories last far longer than the immediate experience or the period of usage, which are the domains of the visceral and behavioral levels. It is reflection that drives us to recommend a product, to recommend that others use it-or perhaps to avoid it. 
+All three levels of processing work together to determine a person's cognitive and emotional state. 
+
+### The seven stages of action and the three levels of processing
+
+### People as storytellers
+
+### Blaming the wrong things
+
+#### Learned helplessness
+
+#### Positive psychology
+
+### Falsely blaming yourelf
+
+### How technology can accomodate human behaviour
+ 
+#### Providing a conceptual model for a home thermostat
+
+### The seven stages of action: seven fundamental design principals
+
+1. What do I want to accomplish?
+2. What are the alternative sequences?
+3. What action can I do now?
+4. How do I do it?
+5. What happened?
+6. What does it mean?
+7. Is this okay? Have I accomplished my goal?
+
+### The seven fundamental principles of design:
+
+1. Discoverability. Is it possible to determine what actions are possible anf the current state of the device
+2. Feedback: There is full and continuous information about the resutls of actions and the current state of the product or service. After an action has been executed, it is easy to determine the new state.
+3. Conceptual model. The design projects all the information needed to create a good conceptual model of the system, leading to understanding and a feeling of control. The conceptual model enhances both discoverability and evaluation of results.
+4. Affordances. The proper affordances exist to make the desired actions possible.
+5. Signifiers. Effective use of signifiers ensures discoverability and that the feedback is well communicated an intelligible.
+6. Mappings. The relationship between controls ant their actions follows the principles of good mapping, enhanced as much as possible through spatial layout and temporal contiguity
+7. Constraints. Providing physical logical, semantic, and cultural constraints guides actions and eases interpretation.
 
 ## 3. Knowledge in the head and in the world
 
