@@ -57,14 +57,14 @@ The seven-stage action cycle is simplified but ot provides a useful framework fo
 ### Human Cognition and Emotion
 The following is an oversimplification but still a good enough approximation to provide guidance in understanding human behaviour. There are three levels of processing: visceral, behavioural and reflective. 
 
-#### The visceral level
+#### The visceral processing level
 This is refered to as the lizard brain. Making quick judgments about the environment: good or bad, safe or dangerous. Visceral system allows us to repond quickly and subconsciously, without awareness or control. It simply assesses the situatio: no cause is assigned, no blame, and no credit. For designers, the visceral response is about immediate perception: the pleasantness of a mellow, harmonious sound or a horrible sound. Here is where the style matters: appearances, wether sound or sight, touch or smell, drive the visceral response. 
 
-#### The behavioural level
+#### The behavioural processing level
 
 Behavioural level is the home of learned skills, triggered by situations that match the appropriate patterns. This level is mostly subconscious. Things like catching a ball, stiking out your tongue etc. For the designers, the most critical aspect of the behavioural level is that every action is associated with an expectation. Behavioural states are learned. They give rise to a feeling of control when there is a good understanding and knowledge of results, and frustration and anger when things do not go as planned, and especially when neither the reason nor the possible remedies are known. Feedback is critical to managing expectations and a good design provides this. The release of the of the tension of expectation creates a sense of releif. 
 
-#### The reflective level
+#### The reflective processing level
 
 The reflective level is the home of conscious cognition. Place where reasoning and conscious decision-making take place. Reflection is cognitive, deep and slow. It occurs after the events have happened. It is a reflectionor looking back over them, evaluating the circumstances, actions and outcomes, often assessing blame or responsibility. This is where predictions of the future take place. 
 
@@ -73,10 +73,13 @@ To the designer, reflection is perhaps the most important of the levels of proce
 All three levels of processing work together to determine a person's cognitive and emotional state. 
 
 ### The seven stages of action and the three levels of processing
+The stages of action can readily be associated with the three different levels of processing. At the lowest level are the visceral levels of calmness or anxiety when approaching a task or evaluating  the state of the world. In the middle level are the behavioural one driven be expectations on the execution and the emotions driven by the confirmation of those expectations. 
 
 ### People as storytellers
+People are innately disposed to look for causes of events, to form explanations and stories. Conceptual models are a form of story, resulting from our predisposition to find explanations. These models are essential in helping us understand our experiences, predict the outcomes of our actions, and handle unexpected occurences. Conceptual models are often constructed from fragmentary evidence, with only a poor understanding of what is happening, and with a kind of naive psychology that postulates causes, mechanisms, and relationships even where there are none. 
 
 ### Blaming the wrong things
+People try to find causes for events. They tend to assign a causal relation whenever two things occur in succession. Suppose I try to use an everyday thing, but I can't. Who is at fault: me or the thing? We are apt to blame ourselves, especially if other are able to use it. 
 
 #### Learned helplessness
 
