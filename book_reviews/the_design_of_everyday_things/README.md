@@ -79,17 +79,25 @@ The stages of action can readily be associated with the three different levels o
 People are innately disposed to look for causes of events, to form explanations and stories. Conceptual models are a form of story, resulting from our predisposition to find explanations. These models are essential in helping us understand our experiences, predict the outcomes of our actions, and handle unexpected occurences. Conceptual models are often constructed from fragmentary evidence, with only a poor understanding of what is happening, and with a kind of naive psychology that postulates causes, mechanisms, and relationships even where there are none. 
 
 ### Blaming the wrong things
-People try to find causes for events. They tend to assign a causal relation whenever two things occur in succession. Suppose I try to use an everyday thing, but I can't. Who is at fault: me or the thing? We are apt to blame ourselves, especially if other are able to use it. 
+People try to find causes for events. They tend to assign a causal relation whenever two things occur in succession. Suppose I try to use an everyday thing, but I can't. Who is at fault: me or the thing? We are apt to blame ourselves, especially if other are able to use it. Lack of feedback can lead to unintended results. With electronic devices, people are often led to conclude that actions were not recorded so people redo the same actions which  might intensify or be queud up and actionned later on which might cause harm or distress or frustration. Modern systems try to provide feedback in less then 0.1 seconds. Usually, the presence of an hourglass or rotating clock hands is a reasuring sign that work is in progress. Some studies show that it is wise to underpredict. That helps manage expectations and can lead to a hppy result. 
 
 #### Learned helplessness
+Learned helplessness is a phenomenom that might explain the self-blame. It referes to situation where people experience repeated failure at a task. As a result, they decide that the task cannot be done, at least not by them so they are hepless. 
 
 #### Positive psychology
+We learned to give up after repeated failure. But we can learn optimistic and positive responses to life. We need to remove the word failure and replace it with learning experience. To fail is to learn. Tips from the design firm Ideo:
+ - Do not blame people when they fail to use your products properly
+ - Take peopl's difficulties as signifiers of where the product can be improved
+ - Eliminate all error message from electronic or computer systems. Instead, provide help and guidance.
+ - Make it possible to correct problems directly from help and guidance messages. Allow people to continue with their tasks: Don't impede progress-help make it smooth and continuous. Never make people start over.
+ - Assume that what people have done is partially correct, so if it is innapropriate, provide the guidance that allows them to correct the problem and be on their way.
+ - Think positively, for yourself and for the people you interact with.
 
 ### Falsely blaming yourelf
+When people make errors, invariably people feel guilty and either try to hide the error or blame themselves for stupidity or clumsiness. Eliminate the term human error. Instead, talk about communication and interaction: what we call error is usually bad communication or interaction. Machines are not people so they can't communicate and understand like people do so this means the designers have a special obligation to ensure that the behaviour of machines is understandable to the people who interact with them. Designers should strive to minimize the chance of innapropriate actions in the first place by using affordances, signifiers, good mapping, and constraints to guide the actions. If a person performs an inappropriate action, the design should maximize the chance that this can be discovered and then rectified. This requires good, intelligible feedback coupled with a simple, clear conceptual model. When people understand what has happened, what state the system is in, and what the most appropriate set of actions is, they can perform their activities more effectively. 
 
 ### How technology can accomodate human behaviour
- 
-#### Providing a conceptual model for a home thermostat
+In the past, cost prevented many manufacturers from providing useful feedback that would assist people in forming accurate conceptual models. But now the cost of sensors and displays has dropped making it now possible to do a lot more. 
 
 ### The seven stages of action: seven fundamental design principals
 
